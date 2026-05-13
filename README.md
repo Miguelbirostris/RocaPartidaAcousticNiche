@@ -15,6 +15,8 @@ Mauricio E. Hoyos-Padilla 1,2,3; James Ketchum 1,2,6; Miguel de J. Gomez-Garcia 
 
 
 REFERENCES 
+
+
 Andrzejaczek S., et al. 2022. Diving into the vertical dimension of elasmobranch movement ecology. Sci. Adv. 8: 1–20. https://doi.org/10.1126/sciadv.abo1754
 
 Barash A, Scheinin A, Bigal E., Zemah Shamir Z, Martinez S, Tchernov D. 2023. Depth partitioning and diel movement of two large carcharhinid sharks in extremely shallow waters. Fishes. 8: 1–9. https://doi.org/10.3390/fishes8020085
