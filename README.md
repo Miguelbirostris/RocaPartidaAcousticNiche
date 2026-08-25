@@ -1,6 +1,6 @@
 Code repo for ongoing publication. Hoyos-Padilla et al., 2026
 
-This repository holds details, references and code for an ongoing publication. Feel free to contact me or the other correspondence authors here or at mdg1047@usnh.edu
+This repository holds details, references and code for an ongoing publication. Feel free to contact me or the other correspondence authors here or at midejgoga@gmail.com
 
 Putative title: 
 
@@ -9,10 +9,6 @@ Coexistence at an oceanic oasis: vertical niches and partitioning within a shark
 Mauricio E. Hoyos-Padilla 1,2,3; James Ketchum 1,2,6; Miguel de J. Gomez-Garcia 1,7; Yannis P. Papastamatiou5
 
 1Pelagios Kakunjá A.C., La Paz, Mexico, 2Fins Attached, Colorado Springs, CO, United States, 3Centro Intersciplinario de Ciencias Marinas, La Paz, Mexico, 4Department of Wildlife, Fish, and Conservation Biology, University of California, Davis, One Shields Avenue, Davis, CA 95616, U.S.A., 5Institute of Environment, Department of Biological Sciences, Florida International University, North Miami, FL 33181, USA, 6Centro de Investigaciones Biológicas del Noroeste, La Paz, México. 7 Quantitative Marine Ecology Lab, University of New Hampshire, Durham, New Hampshire, USA.
-
-*Correspondence author: 
-
-
 
 REFERENCES 
 
@@ -25,7 +21,15 @@ Beaugrand G, Lenoir S, Ibanez F, Manté C. 2011. A new model to assess the proba
 
 Beauvais SMS, Martinez-Rincon RO, Ketchum JT, Schaal G, Lluch-Cota SE, Hoyos-Padilla M. 2024. Movement patterns and residency of silvertip sharks (Carcharhinus albimarginatus) in a remote archipelago of the Eastern Tropical Pacific. Environ. Biol. Fish. 108:571-589
 
+Becerril‐García EE, Hoyos‐Padilla EM, Henning B, & Salinas‐De León P. 2020. Sharks, rays, and chimaeras of the Revillagigedo National Park: An update of new and confirmed records. J. Fish Biol. 97: 1228-1232.
+
+Becerril-Garcia EE, Ayala-Bocos A, Hoyos-Padilla EM. 2026. Reproductive behaviour of whitetip reef sharks (Triaenodon obesus) in the Revillagigedo Archipelago, Mexico. Environ. Biol. Fish. 109:107
+
+Bolnick DI, Yang LH, Fordyce JA, Davis JM, Svanback R. 2002. Measuring individuals-level resource specialization. Ecology. 83:2936-2941
+
 Brown JS, Kotler BP, Mitchell WA. 1994. Foraging theory, patch use, and the structure of a Negev Desert granivore community. Ecology 75:2286-2300
+
+Brown JS. 2000. Game theory and habitat selection. In: Game theory and animal behavior (Ed: Dugatkin LA, Reeve HK). Oxford University Press. 
 
 Cabrera-Chavez-Costa AA, Galvan-Magana F, Escobar-Sanchez O. 2010. Food habits of the silky shark Carcharhinus falciformis off the western coast of Baja California Sur, Mexico. J. Appl. Ichthyol. 26:499-503
 
@@ -57,23 +61,31 @@ Humphries NE, Simpson SJ, Wearmouth VJ, Sims DW. 2016. Twos company, three's a c
 
 Ketchum JT, Hoyos-Padilla M, Aldana-Moreno A, Ayres K, Galvan-Magana F, Hearn A, Lara-Lizardi F, Muntaner-Lopez G, Grau M, Trejo-Ramirez A, Whitehead DA, Klimley AP. 2020. Shark movement patterns in the Mexican Pacific: a conservation and management perspective. Adv. Mar. Biol. 85:1-37
 
+Ketchum JT, Hearn A, Klimley AP, Peñaherrera C, Espinoza E, Bessudo S, Soler G, y Arauz R. 2014. Inter-island movements of scalloped hammerhead sharks (Sphyrna lewini) and seasonal connectivity in a marine protected area of the eastern tropical Pacific. Mar. Biol. 161:939-951. doi:10.1007/s00227-014-2393-y
+
 Klimley AP, Ketchum JT, Lara-Lizardi F, Papastamatiou YP, Hoyos-Padilla EM. 2022. Evidence for spatial and temporal resource partitioning of sharks at Roca Partida, an isolated pinnacle in the eastern Pacific. Environ. Biol. Fish. 105: 1963–1974
 
 Lara-Lizardi F, Ketchum JT, Hearn AR, Klimley AP, Galvan-Magana F, Antoniou A, Arauz R, Bessudo S, Castro E, Chavez EJ, Clua EEG, Espinoza E, Fischer C, Penaherrera-Palma C, Steiner T, Hoyos-Padilla M. 2026. Shark movements between islands in the Revillagigedo Archipelago and connectivity to other islands in the Eastern Tropical Pacific. PLoS One 21:e0341840
 
 Lear KO, Whitney NM, Morris JJ, Gleiss AC. 2021. Temporal niche partitioning as a novel mechanism promoting coexistence of sympatric predators in marine systems. Proc. R. Soc. B. 288:20210816
 
-Mahalanobis PC. 1936. On the generalised distance in statistics. Proc. Natl Inst. Sci. 2: 49–56.
+Mahalanobis PC. 1936. On the generalised distance in statistics. Proc. Natl. Inst. Sci. 2: 49–56.
 
 Meyer CG, Papastamatiou YP, Holland KN. 2010. A multiple instrument approach to quantifying the movement patterns and habitat use of tiger (Galeocerdo cuvier) and Galapagos sharks (Carcharhinus galapagensis) at French Frigate Shoals, Hawaii. Mar. Biol. 157:1857-1868
 
 Papastamatiou YP, Wetherbee B, Lowe C, Crow G. 2006. Distribution and diet of four species of Carcharhinid shark in the Hawaiian Islands: evidence for resource partitioning and competitive exclusion. Mar. Ecol. Prog. Ser. 320: 239-251
 
-Papastamatiou YP, Bodey T, Friedlander A, Lowe C, Bradley D, Weng K, Priestley V, Caselle J. 2018. Spatial separation without territoriality in shark communities. Oikos. 127:767-779
+Papastamatiou YP, Bodey T, Friedlander A, Lowe C, Bradley D, Weng K, Priestley V, Caselle J. 2018a. Spatial separation without territoriality in shark communities. Oikos. 127:767-779
+
+Papastamatiou YP, Watanabe YY, Demsar U, Leos-Barajas V, Bradley D, Langrock R, Weng K, Lowe CG, Friedlander AM, Caselle JE. 2018b. Activity seascapes highlight central place foraging strategies in marine predators that never stop swimming. Move. Ecol. 6:9
 
 Papastamatiou YP, Huveneers C, Ballesta L, Planes S, Mourier J. 2025. Marine predator super-habitats: channels used for foraging, resting, mating and parturition in sharks. Biol. Cons. 311:111446
 
+Richards AF. 1964. Geology of the Islas Revillagigedo, Mexico. 4. Geology and petrography of Isla Roca Partida. Geol. Soc. Amer. Bull. 75:1157-1164
+
 Tickler DM, Carlisle AB, Meeuwig JJ, Chapple TK, Curnick DJ, Dale JJ, Castleton MJ, Schallert RJ, Block BA. 2023. Pop-up archival tags reveal environmental influences on the vertical movements of silvertip sharks Carcharhinus albimarginatus. Mar. Ecol. Prog. Ser. 717:85-105
+
+Venables WN, Ripley BD. 2002. Modern Applied Statistics with S, Fourth edition. Springer, New York
 
 Watanabe YY, Papastamatiou YP. 2023. Biologging and biotelemetry: tools for understanding the lives and environments of marine animals. Ann. Rev. Anim. Bio. 11:247-267
 
@@ -82,6 +94,3 @@ Weideli OC, Daly R, Peel LR, Heithaus MR, Shivji MS, Planes S, Papastamatiou YP.
 Whitney NM, Papastamatiou YP, Holland KN, Lowe CG. 2008. Use of an acceleration data logger to measure diel activity patterns in captive whitetip reef sharks, Triaenodon obesus. Aquat. Liv. Res. 20:299-305
 
 Williams CT, McIvor AJ, Richardson EB, Lea J, Clarke CR, Cochran JEM, Kattan A, Ormond R, Berumen ML. 2025. Elevated sea surface temperatures drive greater seasonal depth use in a baited aggregation of silky sharks Carcharhinus falciformis. Mar. Ecol. Prog. Ser. 773:115-128
-
-
-
